@@ -1,0 +1,3 @@
+# Boipottro Server
+
+## Api: TBA
