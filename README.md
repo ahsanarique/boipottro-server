@@ -1,3 +1,5 @@
 # Boipottro Server
 
-## Api: TBA
+## Api: https://fast-escarpment-60313.herokuapp.com/
+
+###
